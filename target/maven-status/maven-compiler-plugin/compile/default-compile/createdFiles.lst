@@ -1,0 +1,4 @@
+com\scopeddirtest\BrowserStarterExecutor.class
+com\scopeddirtest\Run.class
+com\scopeddirtest\WebDriverInitializerException.class
+com\scopeddirtest\BrowserStarter.class
